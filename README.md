@@ -36,9 +36,9 @@ $ npm run dev
 
 # Dependencies
 
-express
-mongoose
-passport
-bootstrap
-prettier
-blueprintjs
+- express
+- mongoose
+- passport
+- bootstrap
+- prettier
+- blueprintjs
